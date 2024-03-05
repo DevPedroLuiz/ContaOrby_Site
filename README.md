@@ -1,16 +1,1 @@
-# app-landing-page
-In this tutorial, I will show you how to create an app landing page step by step using Html, CSS, Bootstrap.
-App Landing Page Features Header with navbar and Home Section, About, Features, Testimonial, Pricing, FAQ, Download, Footer, and much more.
-
-Other Features:
-Fully Responsive Layout
-Html5, Css3, Bootstrap 5
-Clean Design
-Font Awesome icons
-Google Fonts
-Created For Web App 
-
-Credits:
-Images: Unsplash, freepink, undraw.
-Fonts: Google Fonts, font awesome.
-
+Seja bem-vindo ao ZapAssist, a solução completa para simplificar e aprimorar o atendimento ao cliente através do WhatsApp. Com o ZapAssist, você pode transformar o WhatsApp em uma poderosa ferramenta de comunicação empresarial, proporcionando uma experiência excepcional aos seus clientes.
